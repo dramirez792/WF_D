@@ -17,3 +17,4 @@ tracknet.twyn.com
 twyn.com
 scribe.twitter.com
 p.ttwitter.com
+syndication.twitter.com
