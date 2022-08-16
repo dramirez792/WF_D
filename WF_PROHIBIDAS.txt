@@ -353,6 +353,7 @@ xbs.mtree.com
 mtree.com
 mt55.mtree.com
 screencast-o-matic.com
+awesomescreenshot.com
 
 #OTRAS_FUENTES
 1.2.206.194
