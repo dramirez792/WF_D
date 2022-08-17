@@ -352,8 +352,7 @@ adultfriendfinder.com
 xbs.mtree.com
 mtree.com
 mt55.mtree.com
-screencast-o-matic.com
-awesomescreenshot.com
+
 rum.browser-intake-datadoghq.com
 browser-intake-datadoghq.com
 realtym.live
