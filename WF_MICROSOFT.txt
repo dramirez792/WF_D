@@ -351,3 +351,6 @@ oms.opinsights.azure.com
 819debd6-f331-47fa-ac27-2cef138d14b6.oms.opinsights.azure.com
 callzillallc.azure-automation.net
 callzillallc.oms.opinsights.azure.com
+tokenprovider.termsofuse.identitygovernance.azure.com
+termsofuse.identitygovernance.azure.com
+identitygovernance.azure.com
