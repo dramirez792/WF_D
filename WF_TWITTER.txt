@@ -18,3 +18,5 @@ twyn.com
 scribe.twitter.com
 p.ttwitter.com
 syndication.twitter.com
+video.twimg.com
+twimg.com
