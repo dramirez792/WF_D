@@ -64,3 +64,8 @@ tiktok.bytedance.map.fastly.net
 tiktokcdn.com.liveplay.myqcloud.com
 tiktokcdn.com.w.kunlunsl.com
 tiktokcdn-us.com.c.footprint.net
+lf16-tiktok-web.ttwstatic.com
+ttwstatic.com
+p16-sign-va.tiktokcdn.com
+sf16-short-va.bytedapm.com
+bytedapm.com
