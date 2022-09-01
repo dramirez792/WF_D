@@ -2,6 +2,9 @@
 198.105.202.16
 198.105.202.17
 198.105.202.18
+api.prod.us.five9.net
+prod.us.five9.net
+us.five9.net
 api.outbound.io
 app-ams.five9.eu
 app-atl.five9.com
