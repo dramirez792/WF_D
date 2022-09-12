@@ -11,7 +11,6 @@ azwus1-client-s.gateway.messenger.live.com
 azwus2-client-s.gateway.messenger.live.com
 cc.skype.com
 client-s.gateway.messenger.live.com
-client.wns.windows.com
 config.edge.skype.com
 consumer.entitlement.skype.com
 fp.config.skype.com
