@@ -355,3 +355,4 @@ tokenprovider.termsofuse.identitygovernance.azure.com
 termsofuse.identitygovernance.azure.com
 identitygovernance.azure.com
 client.wns.windows.com
+login.live.com
