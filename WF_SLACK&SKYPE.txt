@@ -16,7 +16,6 @@ consumer.entitlement.skype.com
 fp.config.skype.com
 go.skype.com
 go.trouter.skype.com
-login.live.com
 login.skype.com
 msgsearch.skype.com
 options.skype.com
