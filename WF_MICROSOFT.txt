@@ -356,3 +356,6 @@ termsofuse.identitygovernance.azure.com
 identitygovernance.azure.com
 client.wns.windows.com
 login.live.com
+api.powerbi.com
+wabi-paas-1-scus-redirect.analysis.windows.net
+analysis.windows.net
