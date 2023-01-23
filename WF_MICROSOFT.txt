@@ -361,3 +361,4 @@ wabi-paas-1-scus-redirect.analysis.windows.net
 analysis.windows.net
 akamai.tiqcdn.com
 cdn3.optimizely.com
+portal.azure.com
