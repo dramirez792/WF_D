@@ -1,3 +1,4 @@
+login.live.com
 819debd6-f331-47fa-ac27-2cef138d14b6.ods.opinsights.azure.com
 aadrm.com
 account.activedirectory.windowsazure.com
@@ -362,3 +363,4 @@ analysis.windows.net
 akamai.tiqcdn.com
 cdn3.optimizely.com
 portal.azure.com
+azure.com
