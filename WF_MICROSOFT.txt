@@ -364,3 +364,11 @@ akamai.tiqcdn.com
 cdn3.optimizely.com
 portal.azure.com
 azure.com
+afd.hosting.portal.azure.net
+sandbox-61-1.reactblade.portal.azure.net
+reactblade.portal.azure.net
+afd.hosting-ms.portal.azure.net
+eafc.nelreports.net
+ms.hosting.portal.azure.net
+atm.hosting-ms.portal.azure.net
+sandbox-19-1.reactblade.portal.azure.net
