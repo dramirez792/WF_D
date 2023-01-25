@@ -34,5 +34,6 @@ ssl.google-analytics.com
 ssl.gstatic.com
 storage.googleapis.com
 cse.google.com
+tel.meet
 clients1.google.com
 yt3.ggpht.com
