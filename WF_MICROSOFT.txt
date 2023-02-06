@@ -373,3 +373,6 @@ ms.hosting.portal.azure.net
 atm.hosting-ms.portal.azure.net
 sandbox-19-1.reactblade.portal.azure.net
 sandbox-57-1.reactblade.portal.azure.net
+statics-marketingsites-eus-ms-com.akamaized.net
+rum.browser-intake-datadoghq.com
+session-replay.browser-intake-datadoghq.com
