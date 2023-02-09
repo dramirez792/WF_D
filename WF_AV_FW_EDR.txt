@@ -116,6 +116,8 @@ tf-edr-message-upload-eu-central-1-prod-bucket.s3.amazonaws.com
 tf-edr-message-upload-eu-west-1-prod-bucket.s3.amazonaws.com
 tf-edr-message-upload-us-east-2-prod-bucket.s3.amazonaws.com
 tf-edr-message-upload-us-west-2-prod-bucket.s3.amazonaws.com
+ksn-dc1.geoksn.kaspersky.com
+ksn-ds.geoksn.kaspersky.com
 
 trellix.com
 us-east-1.trellix.com
