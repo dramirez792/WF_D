@@ -52638,7 +52638,6 @@ play.clubpenguin.com
 play.comaesta.com
 play.de
 play.endel.io
-play.google.com
 play.hotwheels.com
 play.leadzupc.com
 play.mamba.ru
