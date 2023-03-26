@@ -1,11 +1,7 @@
 activision.helpshift.com
 api.whatsapp.com
-callofduty.com
 cdn.wetest.qq.com
-computrabajo.com
-computrabajo.com.co
 inapps.appsflyer.com
-mail.yahoo.com
 media-bog1-1.cdn.whatsapp.net
 media-ort2-1.cdn.whatsapp.net
 pps.whatsapp.net
