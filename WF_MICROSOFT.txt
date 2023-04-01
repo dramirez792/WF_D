@@ -392,3 +392,16 @@ secure.skypeassets.com
 skype.com
 swx.cdn.skype.com
 trouter-azsc-usea-0-a.trouter.skype.com
+powerbi.com
+app.powerbi.com
+pbivisuals.powerbi.com
+world.ces.microsoftcloud.com
+pbidedicated.windows.net
+content.powerapps.com
+arc.msn.com
+s-microsoft.com
+appsource.microsoft.com
+osi.office.net
+dev.powerbi.com
+support.powerbi.com
+olark.com
