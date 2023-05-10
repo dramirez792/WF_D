@@ -252,3 +252,10 @@ digicert.com
 ocspx.digicert.com
 symauth.com
 signin.absolute.com
+forticlient.fortinet.net
+usforticlient.fortinet.net
+myforticlient.fortinet.net
+fortinet.net
+fctusupdate.fortinet.net
+fctupdate.fortinet.net
+fcteuupdate.fortinet.net
