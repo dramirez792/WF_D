@@ -405,3 +405,5 @@ osi.office.net
 dev.powerbi.com
 support.powerbi.com
 olark.com
+microsoft365.com
+

@@ -50,3 +50,4 @@ tel.meet
 yt3.ggpht.com
 chrome.google.com
 gcm-http.googleapis.com
+calendar.google.com
