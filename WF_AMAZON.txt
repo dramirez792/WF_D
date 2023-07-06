@@ -70,4 +70,5 @@ learnupon.s3.eu-west-1.amazonaws.com
 s3.eu-west-1.amazonaws.com
 a.b.cdn.console.awsstatic.com
 prezi.com.s3.amazonaws.com
+amazon.live.com
 
