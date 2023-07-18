@@ -406,4 +406,5 @@ dev.powerbi.com
 support.powerbi.com
 olark.com
 microsoft365.com
-
+powerplatform.com
+statics.teams.cdn.office.net
