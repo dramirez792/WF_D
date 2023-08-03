@@ -1,0 +1,3 @@
+apple.com
+dns.apple.com
+doh.dns.apple.com
