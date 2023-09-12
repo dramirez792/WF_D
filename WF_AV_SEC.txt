@@ -264,3 +264,4 @@ global.fortinet.com
 forticlient.forticloud.com
 7225le394v1rxfr4pjf6wdi94e3v2ata.ems.forticlient.forticloud.com
 fct-6D849CE3FE5A455DA18E33CC78A95673-NT9003SCE6VEIY5LTX72-8013.forticlient-emsproxy.forticloud.com
+ems.forticlient.forticloud.com
