@@ -409,3 +409,4 @@ microsoft365.com
 powerplatform.com
 statics.teams.cdn.office.net
 resources.office.net
+presence.teams.microsoft.com
