@@ -1,4 +1,3 @@
-activision.helpshift.com
 api.whatsapp.com
 cdn.wetest.qq.com
 inapps.appsflyer.com
@@ -28,8 +27,6 @@ profile.callofduty.com
 web.whatsapp.com
 west-cloudctrl.codm.activision.com
 whatsapp.com
-yahoo.com
-yahoo.es
 ww16.americantvevents.whatsapp.com----m.com
 ww16.events.apmagents.whatsapp.com----m.com
 ww16.canadacentral.whatsapp.com----m.com
