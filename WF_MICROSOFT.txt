@@ -410,3 +410,5 @@ powerplatform.com
 statics.teams.cdn.office.net
 resources.office.net
 presence.teams.microsoft.com
+ocsp.entrust.net
+crl.entrust.net
