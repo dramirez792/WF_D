@@ -413,3 +413,8 @@ presence.teams.microsoft.com
 ocsp.entrust.net
 crl.entrust.net
 pub-ent-ussc-04-t.trouter.teams.microsoft.com
+rcp.crm.dynamics.com
+dynamics.com
+cdn-dynmedia-1.microsoft.com
+ftp.microsoft.com
+ftp2.microsoft.com
