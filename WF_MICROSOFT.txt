@@ -418,3 +418,15 @@ dynamics.com
 cdn-dynmedia-1.microsoft.com
 ftp.microsoft.com
 ftp2.microsoft.com
+amer.ng.msg.teams.microsoft.com
+pub-ent-usnc-09-t.trouter.teams.microsoft.com
+pub-ent-usce-02-t.trouter.teams.microsoft.com
+api.flightproxy.teams.microsoft.com
+go.trouter.teams.microsoft.com
+pub-ent-plce-11-t.trouter.teams.microsoft.com
+us-prod.asyncgw.teams.microsoft.com
+noam.presence.teams.microsoft.com
+api-afrc.flightproxy.teams.microsoft.com
+appsuggestions.teams.microsoft.com
+pub-ent-uswe-16-t.trouter.teams.microsoft.com
+pub-ent-usnc-10-t.trouter.teams.microsoft.com
