@@ -74,3 +74,5 @@ amazon.live.com
 awsapps.com
 d-9067af704f.awsapps.com
 relatedpregressiveunionmattersescal53908438.awsapps.com
+drp-iad.amazonworkspaces.com
+amazonworkspaces.com
