@@ -76,3 +76,10 @@ d-9067af704f.awsapps.com
 relatedpregressiveunionmattersescal53908438.awsapps.com
 drp-iad.amazonworkspaces.com
 amazonworkspaces.com
+s3-dub-2.cf.trailer.row.aiv-cdn.net
+js-assets.aiv-cdn.net
+cloudfront.xp-assets.aiv-cdn.net
+s3-iad-ww.cf.videorolls.row.aiv-cdn.net
+s3-iad-2.cf.trailer.row.aiv-cdn.net
+prod.us-east-1.sonar.prime-video.amazon.dev
+ters-draper1.us-east-1.aiv-delivery.net
