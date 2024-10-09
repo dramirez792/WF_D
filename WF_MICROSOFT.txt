@@ -118,7 +118,6 @@ informationprotection.azure.com
 informationprotection.hosting.portal.azure.net
 insertmedia.bing.office.net
 isrg.trustid.ocsp.identrust.com
-itunes.apple.com
 keydelivery.mediaservices.windows.net
 live.com
 localytics.com
@@ -338,7 +337,6 @@ delivery.mp.microsoft.com
 ws.microsoft.com
 emdl.ws.microsoft.com
 intunecdnpeasd.azureedge.net
-mzstatic.com
 safelinks.protection.outlook.com
 autodiscover.callzillacx.onmicrosoft.com
 cdn.uci.officeapps.live.com
